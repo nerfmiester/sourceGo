@@ -1,0 +1,2 @@
+# sourceGo
+Default go structure
